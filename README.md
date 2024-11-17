@@ -1,4 +1,5 @@
 - 👋 Olá! Eu sou a MahiennySouza
+- 🌱 Atualmente estou aprendendo java
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
