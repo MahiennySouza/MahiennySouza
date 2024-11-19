@@ -1,4 +1,4 @@
-# Olá, pessoal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=FF1BEB&background=FF15DA00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile✩‧₊˚༘)](https://git.io/typing-svg)
 - 👋 Eu sou a MahiennySouza
 - 🌱 Atualmente estou aprendendo java
 - 😄 Pronouns: ela/dela
