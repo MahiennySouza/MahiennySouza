@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=FF1BEB&background=FF15DA00&center=true&vCenter=true&width=835&lines=Welcome+to+my+profile✩‧₊˚༘)](https://git.io/typing-svg)
 
 - 👋 Hi
-- 🌱 Atualmente eu estou aprendendo java
+- 🌱 I’m currently learning java
+- 📫 How to reach me: ...
 
 
 <div style="display: inline_block"><br>
