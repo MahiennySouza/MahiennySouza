@@ -17,7 +17,12 @@
 <a href="https://www.linkedin.com/in/mahienny-souza-a87925318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"></a>
 </div>
 
-<p align="center">
+<div>
+<a  href="https://www.instagram.com/poeemay1/profilecard/?igsh=YXV4cTdxeXRzYXBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targe="_blank" align="center"></a>
+ 
+</div>
+
+ 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
