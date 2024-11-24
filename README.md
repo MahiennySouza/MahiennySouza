@@ -18,7 +18,7 @@
 </div>
 
 <div>
-<a  href="https://www.instagram.com/poeemay1/profilecard/?igsh=YXV4cTdxeXRzYXBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targe="_blank" align="center"></a>
+<a  href="https://www.instagram.com/poeemay1/profilecard/?igsh=YXV4cTdxeXRzYXBp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
  
 </div>
 
