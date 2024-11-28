@@ -1,3 +1,4 @@
+workflow_run: false
 name: Generate Datas
 
 on:
