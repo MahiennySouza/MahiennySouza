@@ -6,7 +6,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/17f587de-774b-4f13-ad5b-2ecdc4cf7cff" width="400"> 
+ <img src="https://github.com/user-attachments/assets/5543054c-7cf8-4bd8-a9a9-92d07444eb9c" width="400" height="300"> 
 </div>
 
 <div style="display: inline_block"><br>
