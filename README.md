@@ -15,7 +15,9 @@
 <img align="center" alt="mahi-java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
 <img align="center" alt="mahi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="mahi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>    
+<img align="center" alt="mahi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>    
 </div>
+
 
 ##
 <div>
