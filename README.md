@@ -28,6 +28,21 @@
 
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=d48299&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+
+
+<div style="display: inline-block;">
+  <img  
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=mahiennysouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiennysouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
+
 </p> 
 
 <div style="display: inline_block"><br>
@@ -37,6 +52,5 @@
 <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
  <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 </div>
-
 
 
