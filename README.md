@@ -1,11 +1,21 @@
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<div align="center">
- <img src="https://github.com/user-attachments/assets/d8d2a814-ca05-4123-985c-3e6acb0b4e4a" width="450" height="300"> 
+<div>
+ <h1>👋Olá, eu me chamo Mahienny!</h1>
 </div>
+
+<div>
+ <h2>🧠Sobre mim</h2>
+</div>
+
+ <div>
+ <p>Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.</p>
+
+ <ul>
+ <li>Front-end: HTML, CSS, JAVA SCRIPT</li>
+ <li>Controle de versão: Git e GitHub</li>
+ </ul>
+ </div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="mahi-html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg">
@@ -16,17 +26,12 @@
 <img align="center" alt="mahi-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>    
 </div>
 
-
 ##
 <div>
 <a href="https://www.linkedin.com/in/mahienny-souza-a87925318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"></a>
 </div>
-
-
-
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=d48299&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-
 
 <div style="display: inline-block;">
   <img  
