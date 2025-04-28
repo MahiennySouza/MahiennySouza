@@ -57,4 +57,12 @@
  <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 </div>
 
+ <img  
+    alt="Ondas" 
+    height="400px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/bc0aa483-d6bf-46c5-862f-c8ac94379c5f"/>
+
+
+
 
