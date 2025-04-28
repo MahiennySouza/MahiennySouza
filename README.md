@@ -61,7 +61,7 @@
     alt="Ondas" 
     height="400px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/bc0aa483-d6bf-46c5-862f-c8ac94379c5f"/>
+    src="https://github.com/user-attachments/assets/6510460b-1933-4437-8f68-16a26fb6bff6"/>
 
 
 
