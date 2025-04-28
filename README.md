@@ -49,7 +49,7 @@
 
 </p> 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif">
 <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
@@ -57,12 +57,9 @@
  <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 </div>
 
- <img  
-    alt="Ondas" 
-    height="400px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/6510460b-1933-4437-8f68-16a26fb6bff6"/>
-
+ <div>
+ <img alt="Ondas" height="400px" src="https://github.com/user-attachments/assets/6510460b-1933-4437-8f68-16a26fb6bff6">
+</div>
 
 
 
