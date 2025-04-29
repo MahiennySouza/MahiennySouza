@@ -6,9 +6,7 @@
 
 <div>
  <h2>🧠Sobre mim</h2>
-</div>
 
- <div>
  <p>Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.</p>
 
  <ul>
@@ -16,6 +14,8 @@
  <li>Controle de versão: Git e GitHub</li>
  </ul>
  </div>
+
+
 
 #####
 <div align="left">
