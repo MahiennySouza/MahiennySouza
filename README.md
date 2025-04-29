@@ -34,20 +34,13 @@
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=d48299&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 
-<div style="display: inline-block;">
-  <img  
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mahiennysouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<div style="display:inline-block">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiennysouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiennysouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 </div>
-
-</p> 
 
 <div style="display: inline_block">
 <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
@@ -57,9 +50,6 @@
  <img align="center" alt="mahi" height="80" width="80" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
 </div>
 
-<div style="display: flex; align-items: center">
-  <img alt="Ondas" height="400px" src="https://github.com/user-attachments/assets/6510460b-1933-4437-8f68-16a26fb6bff6">
-</div>
 
 
 
