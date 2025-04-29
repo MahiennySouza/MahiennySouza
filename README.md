@@ -1,14 +1,21 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
 <div>
- 👋 Olá, eu me chamo Mahienny!
-
- 🧠 Sobre mim
-Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.
-
-- 💻 **Front-end**: HTML, CSS, JavaScript  
-- 🛠️ **Controle de versão**: Git e GitHub  
+ <h1>👋Olá, eu me chamo Mahienny!</h1>
 </div>
+
+<div>
+ <h2>🧠Sobre mim</h2>
+</div>
+
+ <div>
+ <p>Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.</p>
+
+ <ul>
+ <li>Front-end: HTML, CSS, JAVA SCRIPT</li>
+ <li>Controle de versão: Git e GitHub</li>
+ </ul>
+ </div>
 
 #####
 <div align="left">
