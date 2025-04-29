@@ -5,16 +5,15 @@
 </div>
 
 <div>
- <h2>🧠Sobre mim</h2>
-
+ <h2>🧡Sobre mim</h2>
+ 
  <p>Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.</p>
-
+ 
  <ul>
  <li>Front-end: HTML, CSS, JAVA SCRIPT</li>
  <li>Controle de versão: Git e GitHub</li>
  </ul>
  </div>
-
 
 
 #####
