@@ -17,6 +17,9 @@
 
 
 #####
+
+<h3>#Tecnologias:</h3>
+
 <div align="left">
   <img src="https://icongr.am/devicon/html5-original.svg" width="30px" alt="HTML5"/>
   <img src="https://icongr.am/devicon/css3-original.svg" width="30px" alt="CSS3"/>
@@ -28,7 +31,7 @@
 
 ####
 
-
+<h3>#Contatos:</h3>
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/mahienny-souza-a87925318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"></a>
 <a href="mailto:mahienny90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
