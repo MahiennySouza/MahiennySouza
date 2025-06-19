@@ -5,31 +5,18 @@
 </div>
 
 <div>
- <h2>🧡Sobre mim</h2>
+
  
- <p>Atualmente curso Sistemas para Internet e tenho como objetivo atuar como desenvolvedora front-end e back-end.</p>
+
  
- <ul>
- <li>Front-end: HTML, CSS, JAVA SCRIPT</li>
- <li>Controle de versão: Git e GitHub</li>
- </ul>
- </div>
+
 
 
 #####
 
-<h3>#Tecnologias:</h3>
 
-<div align="left">
-  <img src="https://icongr.am/devicon/html5-original.svg" width="30px" alt="HTML5"/>
-  <img src="https://icongr.am/devicon/css3-original.svg" width="30px" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python"/>
-</div>
 
-####
+
 
 <h3>#Contatos:</h3>
 <div style="display: inline_block">
