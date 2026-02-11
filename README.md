@@ -1,4 +1,6 @@
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF93C5&width=435&lines=Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+
 
 
 
