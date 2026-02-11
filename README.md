@@ -1,13 +1,9 @@
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF93C5&width=435&lines=Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF93C5&width=435&lines=Bem-vindo(a)+ao+meu+perfil!" />
+  </a>
+</div>
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80" />
